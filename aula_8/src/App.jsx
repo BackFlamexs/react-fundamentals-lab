@@ -27,6 +27,7 @@ function App() {
 
     <ManageData />
     <ListRender />
+    <ConditionalRender />
 
     </>
   )
