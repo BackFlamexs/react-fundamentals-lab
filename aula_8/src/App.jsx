@@ -45,6 +45,8 @@ function App() {
 
         {/* Asset importado de src/assets */}
         <img src={city} alt="Cidade" />
+
+        <img src="/orbital-station.jpg" alt="Estação orbital futurista" />
       </div>
 
       {/* Variável comum x useState */}
